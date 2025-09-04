@@ -1,6 +1,6 @@
 ========== HEADER ==========
 .nav__logo
-Liz
+ish
 
 .nav__link
 Home - About Me - Portfolio - Contact Me
@@ -8,10 +8,10 @@ Home - About Me - Portfolio - Contact Me
 
 ========== HOME ==========
 .home__name
-Liz Delz
+Harishsiv
 
 .home__profession
-Web & Visual Designer
+Accessibility consultant
 
 .home__social-link
 https://github.com/
@@ -173,3 +173,4 @@ https://www.linkedin.com/
 
 .footer__copy
 &#169; All Rights Reserved By Bedimcode
+
